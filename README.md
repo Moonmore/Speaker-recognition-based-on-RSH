@@ -5,6 +5,7 @@ This document is intended to introduce the system and data of the paper. Three s
 
 1.GMM system
 	GMM model based on Alize platform
+
 2.X-vector
 	The X-vector neural network model has a Readme file on the Kaldi platform 
 	and the corresponding file, which shows how our Kaldi experiment.
